@@ -1,0 +1,37 @@
+{
+  "name": "test_task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "gulp": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/git-rise-akk/test-task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/git-rise-akk/test-task/issues"
+  },
+  "homepage": "https://github.com/git-rise-akk/test-task#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-rm": "^2.0.0",
+    "gulp-sass": "^5.0.0",
+    "node-sass": "^6.0.1",
+    "sass": "^1.39.0"
+  },
+  "dependencies": {
+    "del": "^6.0.0",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-file-include": "^2.3.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-smile-px2rem": "^0.1.0",
+    "gulp-uglify-es": "^3.0.0"
+  }
+}
